@@ -8,17 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpignata/fargate-workshop-app.git"
+    "url": "git+https://github.com/TerrificMao/fargate-workshop-app.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jpignata/fargate-workshop-app/issues"
+    "url": "https://github.com/TerrificMao/fargate-workshop-app/issues"
   },
-  "homepage": "https://github.com/jpignata/fargate-workshop-app",
+  "homepage": "https://github.com/TerrificMao/fargate-workshop-app",
   "dependencies": {
     "aws-sdk": "^2.176.0",
     "express": "^4.16.2",
     "uuid": "^3.1.0"
   }
 }
+
